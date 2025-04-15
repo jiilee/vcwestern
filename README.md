@@ -1,0 +1,2 @@
+# vcwestern
+Vibe Code Western
